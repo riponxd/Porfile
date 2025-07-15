@@ -62,6 +62,9 @@ I’m a curious explorer of code & design. I love:
 
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShariarAlways&layout=compact&theme=tokyonight)]
 
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShariarAlways&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ---
 
 ## 📈 GitHub Stats & Activity
