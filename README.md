@@ -108,6 +108,3 @@ I’m a curious explorer of code & design. I love:
   <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
   <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
 </p>
-
-
-![Snake animation](https://github.com/riponxd/Porfile/blob/output/github-contribution-grid-snake.svg)
