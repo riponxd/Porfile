@@ -74,11 +74,12 @@ I’m a curious explorer of code & design. I love:
 <p align="left">
   <img 
     src="https://wakatime.com/share/@ShariarAlways/387ee371-4734-4c0e-b625-06852c89bac9.svg" 
-    width="800px" 
-    height="600px" 
+    width="460px" 
+    height="350px" 
     alt="WakaTime Stats"
   />
 </p>
+
 
 
 
