@@ -69,6 +69,17 @@ I’m a curious explorer of code & design. I love:
 
 ![WakaTime](https://wakatime.com/share/@ShariarAlways/387ee371-4734-4c0e-b625-06852c89bac9.svg)
 
+## ⏱️ My Real-time Coding Stats (WakaTime SVG)
+
+<p align="left">
+  <img 
+    src="https://wakatime.com/share/@ShariarAlways/387ee371-4734-4c0e-b625-06852c89bac9.svg" 
+    width="460px" 
+    height="35px" 
+    alt="WakaTime Stats"
+  />
+</p>
+
 
 
 ---
