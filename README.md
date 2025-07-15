@@ -68,7 +68,7 @@ I’m a curious explorer of code & design. I love:
   <img 
     src="https://wakatime.com/share/@ShariarAlways/387ee371-4734-4c0e-b625-06852c89bac9.svg" 
     width="480px" 
-    height="3670px" 
+    height="370px" 
     alt="WakaTime Stats"
   />
 </p>
