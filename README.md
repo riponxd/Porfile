@@ -57,7 +57,8 @@ I’m a curious explorer of code & design. I love:
 
 ## 📈 GitHub Stats & Activity
 
-<p align="center">
+<!----p align="center"--->
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=ShahriarTbc&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahriarTbc&layout=compact&theme=tokyonight" alt="Top Langs"/>
