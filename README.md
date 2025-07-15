@@ -58,16 +58,10 @@ I’m a curious explorer of code & design. I love:
 
 ---
 
-## 📊 My WakaTime Coding Stats
-
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShariarAlways&layout=compact&theme=tokyonight)]
-
+## 📊 My Coding Stats
 
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShariarAlways&layout=compact&theme=tokyonight&v=2)](https://wakatime.com/@ShariarAlways)
 
-## 📈 WakaTime Live Stats (via SVG share)
-
-![WakaTime](https://wakatime.com/share/@ShariarAlways/387ee371-4734-4c0e-b625-06852c89bac9.svg)
 
 ## ⏱️ My Real-time Coding Stats (WakaTime SVG)
 
