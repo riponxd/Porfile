@@ -65,7 +65,9 @@ I’m a curious explorer of code & design. I love:
 
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShariarAlways&layout=compact&theme=tokyonight&v=2)](https://wakatime.com/@ShariarAlways)
 
-[<figure><embed src="https://wakatime.com/share/@ShariarAlways/387ee371-4734-4c0e-b625-06852c89bac9.svg"></embed></figure>]
+## 📈 WakaTime Live Stats (via SVG share)
+
+![WakaTime](https://wakatime.com/share/@ShariarAlways/387ee371-4734-4c0e-b625-06852c89bac9.svg)
 
 
 
