@@ -59,9 +59,9 @@ I’m a curious explorer of code & design. I love:
 
 <!----p align="center"--->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ShahriarTbc&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats"/>
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahriarTbc&layout=compact&theme=tokyonight" alt="Top Langs"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShahriarTbc&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats"/>
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShahriarTbc&bg_color=e3e3e3&color=000000&line=0cc048&point=345544&area=true&hide_border=true" alt="Activity Graph"/>
 </p>
